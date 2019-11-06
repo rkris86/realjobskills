@@ -1,14 +1,2 @@
-+++
-title = "My presentation"
-
-+++
-
-# Hello world!
-
-This is my first slide.
-
----
-
-# Hello Mars!
-
-This is my second slide
+Job Ready Skills is one of a kind training institute led by Real time consultant and architects, who trains and guides candidates through our State of the art training plan. Consultants from various background from Healthcare, Insurance,
+Automobile, Media and Information.
